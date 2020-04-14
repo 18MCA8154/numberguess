@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">numberguess</string>
+
+    <string name="start_msg">A number between 1 to 1000 is on my mind.Can you guess it?</string>
+</resources>
